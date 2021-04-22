@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maxhpr
+- 👋 Hi, I’m @maxhpr (Max)
 - 👀 I’m interested in Typescript, JavaScript and React
 - 🌱 I’m currently learning Software Architecture and Web Communications
 - 📫 How to reach me: Twitter @max_hpr
