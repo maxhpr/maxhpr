@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @maxhpr (Max)
-- 👀 I’m interested in Typescript, JavaScript, OOP, TDD and Software Architecture
+- 👀 I’m interested in Typescript, OOP, TDD, Design Patterns and Software Architecture
 - 🌱 I’m currently learning Software Architecture and Web Communications
 - 📫 How to reach me: Here or on Twitter @max_hpr
 
