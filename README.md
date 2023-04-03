@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @maxhpr (Max)
-- 👀 I’m interested in Typescript, OOP, TDD, Design Patterns and Software Architecture
-- 🌱 I’m currently learning Software Architecture and Web Communications
+- 👀 I’m interested in Typescript, React, TDD, Design Patterns and Software Architecture
+- 🌱 I’m currently working as Software Developer in Innsbruck.
 - 📫 How to reach me: Here or on Twitter @max_hpr
 
 <!---
